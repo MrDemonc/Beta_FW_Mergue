@@ -1,4 +1,4 @@
-### Script to mergue firmware
+# Script to mergue firmware
 
 ## Started
 
